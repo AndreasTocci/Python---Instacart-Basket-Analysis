@@ -54,4 +54,4 @@ Scipy: For scientific and technical computing, including advanced mathematical f
 
 # Disclaimer:
 
-Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purposes of Career Foundry's Data Analytics program. AI was used to help with Grammar and Structure.
+Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purposes of Career Foundry's Data Analytics program. ClaudeAI was used to help with Grammar and Structure.
